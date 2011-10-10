@@ -8,8 +8,8 @@
 #+ or
 #+    BASHBF_PROGRAM=PROGRAM; ./bashbf
 
-set -u
-set -e
+# set -u
+# set -e
 # set -x
 
 # program counter
