@@ -24,7 +24,7 @@
 # program wrapper
 . ./modules/program.sh
 
-if [ -z $1 ]; then
+if [ -z "$1" ]; then
     echo "No program.";
     exit 0;
 fi
