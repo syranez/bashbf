@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Example "Hello World"
+# Example "Geek"
 #+ prints out "GEEK"
 
 sh bashbf.sh '>++++++++[<++++++++>-]<+++++++.--..++++++.';
